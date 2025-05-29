@@ -1,2 +1,3 @@
-# Astro Intel Bot  
-Telegram bot for personalized astrology insights.
+# Astro Intel Bot
+
+Personalized astrology and numerology Telegram bot.
